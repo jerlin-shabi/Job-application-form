@@ -1,4 +1,0 @@
-[[redirects]]
-    from = "/*"
-    to = "/page.tsx"
-    status = 200
