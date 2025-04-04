@@ -1,4 +1,4 @@
 [[redirects]]
     from = "/*"
     to = "/page.tsx"
-    status = 200!
+    status = 200
